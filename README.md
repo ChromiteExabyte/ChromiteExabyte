@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChromiteExabyte
 - 👀 I’m interested in Mining, Geology & Data Science.
-- 🌱 I’m currently learning C#, Python, MySQL, and VIM.  
+- 🌱 I’m currently learning C#, Python, MySQL, and other things. 
 - 💞️ I’m looking to collaborate on whatever I can! 
 - 📫 How to reach me: just through GitHub here. I'm new. 
 
