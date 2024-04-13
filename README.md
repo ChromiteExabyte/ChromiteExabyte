@@ -1,5 +1,5 @@
 -  Hi, I’m @ChromiteExabyte
-- 👀 I’m interested in Mining, Geology & Data Science.
+- 👀 I’m interested the optimal data structure for a mineral 
 - 🌱 I’m currently learning Rust, C#, and Data Structues and Algorithms. 
 - 📫 How to reach me: just through GitHub here :)
 
