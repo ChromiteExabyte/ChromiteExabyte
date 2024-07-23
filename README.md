@@ -1,6 +1,6 @@
 -  Hi, I’m @ChromiteExabyte
-- 👀 I’m interested the optimal data structure for a mineral 
-- 🌱 I’m currently learning Rust, C#, and Data Structues and Algorithms. 
+- 👀 I’m interested in open source software 
+- 🌱 I’m currently learning Zig and software development practices
 - 📫 How to reach me: just through GitHub here :)
 
 <!---
