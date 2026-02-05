@@ -1,6 +1,6 @@
 -  Hi, I’m @ChromiteExabyte
 - 👀 I’m interested in open source software 
-- 🌱 I’m currently learning TypeScript and basic web dev. 
+- 🌱 I’m currently learning. 
 
 <!---
 ChromiteExabyte/ChromiteExabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
